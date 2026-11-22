@@ -1,0 +1,3 @@
+
+echo "Linux commands help developers manage files and directories." > practice/file-lab/documents/notes.txt
+echo "The terminal is an important development tool." >> practice/file-lab/documents/notes.txt
