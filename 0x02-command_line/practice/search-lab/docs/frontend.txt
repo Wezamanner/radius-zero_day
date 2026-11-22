@@ -1,0 +1,4 @@
+HTML provides the structure of web pages .
+CSS controls the presentation of a web page.
+Javascript adds interactivity to a web page
+. EOF
